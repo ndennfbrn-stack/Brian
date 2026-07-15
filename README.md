@@ -1,6 +1,3 @@
-# Brian
-Mylovely
-git clone https://github.com/brian/love-qrcode.git
 -- require the library in your `main.lua`:
 local QRCode = require("love-qrcode")
 -- Create a QR code instance:
